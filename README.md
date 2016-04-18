@@ -1,3 +1,4 @@
 # gdsii-reader-rs
 
-GDSii reading module written in rust
+node.js GDSii module for written in rust
+
