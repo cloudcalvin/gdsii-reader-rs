@@ -1,0 +1,12 @@
+[package]
+name = "gdsii-reader-rs"
+version = "0.1.0"
+authors = ["cloudcalvin <cloudcalvin@me.com>"]
+license = "MIT"
+
+[lib]
+name = "gdsii_reader_rs"
+crate-type = ["dylib"]
+
+[dependencies]
+neon = "0.1"
