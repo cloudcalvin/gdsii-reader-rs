@@ -1,4 +1,4 @@
 # gdsii-reader-rs
 
-node.js GDSii module for written in rust
+GDSii library written in rust, packed as node.js module using Neon
 
